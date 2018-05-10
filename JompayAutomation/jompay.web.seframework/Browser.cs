@@ -9,7 +9,7 @@ namespace jompay.web.seframework
         //private static string baseUrl = ConfigurationManager.AppSettings("JompayPageUrl").ToString();
         private static string baseUrl = ConfigurationManager.AppSettings["JompayPageUrl"];
         //private static string baseUrl = "https://sit.jompay.com.my/";
-        private static string simulatorUrl = "https://simulator.jompay.com.my/sit/";
+        private static string simulatorUrl = "https://www.google.com/";
         private static IWebDriver webDriver = new ChromeDriver();
         
         public static void Initialize()
