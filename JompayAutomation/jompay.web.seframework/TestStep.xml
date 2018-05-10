@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+  <TestCase category="cooking">
+    <TestElement>Everyday Italian</TestElement>
+    <TestElement>Giada De Laurentiis</TestElement>
+    <TestElement>2005</TestElement>
+    <TestElement>30.00</TestElement>
+  </TestCase>
+  <TestCase category="children">
+    <TestElement>Harry Potter</TestElement>
+    <TestElement>J K. Rowling</TestElement>
+    <TestElement>2005</TestElement>
+    <TestElement>29.99</TestElement>
+  </TestCase>
+  <TestCase category="web">
+    <TestElement>Learning XML</TestElement>
+    <TestElement>Erik T. Ray</TestElement>
+    <TestElement>2003</TestElement>
+    <TestElement>39.95</TestElement>
+  </TestCase>
+</Test>
